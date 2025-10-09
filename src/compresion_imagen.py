@@ -1,11 +1,39 @@
-from PIL import Image
 import math
+from PyQt6.QtWidgets import QApplication, QFileDialog
+from PIL import Image
+import sys
+
+def select_img():
+    # Crear aplicación temporal si no existe (requerido por PyQt)
+    app = QApplication.instance()
+    if app is None:
+        app = QApplication(sys.argv)
+
+    # Abrir el cuadro de diálogo para seleccionar archivo
+    ruta, _ = QFileDialog.getOpenFileName(
+        None,  # Ventana padre (None = sin ventana principal)
+        "Seleccionar imagen",  # Título del cuadro
+        "../public",  # Carpeta inicial
+        "Imágenes (*.png *.jpg *.jpeg *.bmp)"  # Filtro de archivos
+    )
+
+    # Si se seleccionó una ruta, devolverla
+    if ruta:
+        return ruta
+    else:
+        print(" No se seleccionó ninguna imagen.")
+        sys.exit()
 
 # ------------------------------
-# Cargar imagen y convertir a RGB
+# Cargar imagen seleccionada y convertir a RGB
 # ------------------------------
-imagen = Image.open("C:/Users/Crist/OneDrive/Escritorio/7.png")
-imagen = imagen.convert("RGB")      # convertir a formato RGB
+ruta = select_img()
+
+imagen = Image.open(ruta)
+imagen = imagen.convert("RGB")
+
+print(f"Imagen cargada correctamente: {ruta}")
+print(f"Dimensiones: {imagen.width} × {imagen.height}")
 
 pixeles = [[imagen.getpixel((x, y)) for x in range(imagen.width)] for y in range(imagen.height)]
 ancho, alto = imagen.size
@@ -64,7 +92,7 @@ print(f"Secuencia global (primeros 50): {runs_global[:50]} ...")
 print(f"max_run={max_run_global}, bits_contador={bits_c_global}, bits_totales={bits_global}")
 
 # Guardar resultado de compresion
-with open("C:/Users/Crist/OneDrive/Escritorio/7_comprimida.bin", "wb") as f:
+with open("../public/imagen_comprimida.bin", "wb") as f:
     for color, rep in runs_global:
         # Guardar los 3 bytes del color RGB
         f.write(bytes(color))
@@ -92,8 +120,8 @@ for y in range(alto):
         imagen_reconstruida.putpixel((x, y), matriz_recuperada[y][x])
 
 # Guardar resultado de descompresion (Reconstruyendo la imagen)
-imagen_reconstruida.save("C:/Users/Crist/OneDrive/Escritorio/7_reconstruida.png")
-print("Imagen reconstruida guardada como '7_reconstruida.png'")
+imagen_reconstruida.save("../public/imagen_reconstruida.png")
+print("Imagen reconstruida guardada como 'iamgen_reconstruida.png'")
 
 # ------------------------------
 # Comparar resultados
