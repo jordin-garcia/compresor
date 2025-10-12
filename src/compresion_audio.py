@@ -8,7 +8,7 @@ from collections import Counter
 import pickle
 import pyaudio
 import threading
-
+#etapa1
 class NodoHuffman:
     __slots__ = ('simbolo', 'frecuencia', 'izquierda', 'derecha')
     
