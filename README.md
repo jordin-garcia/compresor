@@ -1,4 +1,4 @@
-# Compresor de Datos - Proyecto 3
+# Compresor de Datos
 
 Aplicación de compresión de datos que implementa algoritmos de compresión sin pérdida para texto, imágenes y audio utilizando Python y PyQt6.
 
