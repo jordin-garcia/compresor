@@ -1,5 +1,7 @@
-import heapq, os, shutil, pickle
+import heapq
+import pickle
 from collections import defaultdict
+
 
 class Nodo:
     def __init__(self, char, freq):
@@ -10,9 +12,10 @@ class Nodo:
 
     def __lt__(self, otro):
         return self.freq < otro.freq
-    
+
+
 def construir_arbol(freqs):
-    heap = [Nodo(c, f) for c , f in freqs.items()]
+    heap = [Nodo(c, f) for c, f in freqs.items()]
     heapq.heapify(heap)
 
     while len(heap) > 1:
@@ -24,6 +27,7 @@ def construir_arbol(freqs):
 
     return heap[0]
 
+
 def generar_codigos(nodo, prefijo="", codigos=None):
     if codigos is None:
         codigos = {}
@@ -34,6 +38,7 @@ def generar_codigos(nodo, prefijo="", codigos=None):
     generar_codigos(nodo.izq, prefijo + "0", codigos)
     generar_codigos(nodo.der, prefijo + "1", codigos)
     return codigos
+
 
 def comprimir_texto(texto, archivo_salida="comprimido.bin"):
     # 1. Frecuencias
@@ -57,7 +62,7 @@ def comprimir_texto(texto, archivo_salida="comprimido.bin"):
     # 5. Convertir a bytes
     b = bytearray()
     for i in range(0, len(bits), 8):
-        byte = bits[i:i+8]
+        byte = bits[i : i + 8]
         b.append(int(byte, 2))
 
     # 6. Guardar en binario (pickle guarda codigos + data)
@@ -66,6 +71,7 @@ def comprimir_texto(texto, archivo_salida="comprimido.bin"):
 
     print(f"Texto comprimido y guardado en {archivo_salida}")
     return codigos
+
 
 def descomprimir_texto(archivo_entrada="comprimido.bin", archivo_salida="salida.txt"):
     with open(archivo_entrada, "rb") as f:
@@ -98,12 +104,3 @@ def descomprimir_texto(archivo_entrada="comprimido.bin", archivo_salida="salida.
 
     print(f"Texto descomprimido y guardado en {archivo_salida}")
     return texto
-
-##Main
-print("== Probando el compresion ==")
-texto = "Compresion de texto al estilo Huffman"
-codigos = comprimir_texto(texto, "comprimido.bin")
-print("Códigos Huffman:", codigos)
-
-recuperado = descomprimir_texto("comprimido.bin", "salida.txt")
-print("Texto recuperado:", recuperado)

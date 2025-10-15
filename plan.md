@@ -5,7 +5,7 @@
 - **Elizabeth**: Compresión de Audio
 - **Cristian**: Compresión de Imágenes
 - **André**: Compresión de Texto
-- **Tu nombre**: Interfaz Gráfica
+- **Jordin**: Interfaz Gráfica
 - **Fecha de entrega**: 16 de octubre, 23:59
 
 ---

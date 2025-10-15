@@ -1,0 +1,5 @@
+pillow>=10.0.0
+numpy>=1.24.0
+pyaudio>=0.2.13
+PyQt6>=6.5.0
+

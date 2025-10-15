@@ -1,0 +1,302 @@
+Este es un archivo de prueba para la compresión de texto usando el algoritmo de Huffman.
+El algoritmo de Huffman es muy eficiente para comprimir texto con caracteres repetidos.
+Por ejemplo, la letra 'e' aparece muchas veces en español, al igual que las vocales.
+Este texto tiene varias repeticiones para demostrar la efectividad del algoritmo.
+La compresión funciona mejor cuando hay patrones y caracteres que se repiten frecuentemente.
+¡Prueba este texto y observa el ratio de compresión resultante!
+
+Este es un archivo de prueba para la compresión de texto usando el algoritmo de Huffman.
+El algoritmo de Huffman es muy eficiente para comprimir texto con caracteres repetidos.
+Por ejemplo, la letra 'e' aparece muchas veces en español, al igual que las vocales.
+Este texto tiene varias repeticiones para demostrar la efectividad del algoritmo.
+La compresión funciona mejor cuando hay patrones y caracteres que se repiten frecuentemente.
+¡Prueba este texto y observa el ratio de compresión resultante!
+
+Este es un archivo de prueba para la compresión de texto usando el algoritmo de Huffman.
+El algoritmo de Huffman es muy eficiente para comprimir texto con caracteres repetidos.
+Por ejemplo, la letra 'e' aparece muchas veces en español, al igual que las vocales.
+Este texto tiene varias repeticiones para demostrar la efectividad del algoritmo.
+La compresión funciona mejor cuando hay patrones y caracteres que se repiten frecuentemente.
+¡Prueba este texto y observa el ratio de compresión resultante!
+
+Este es un archivo de prueba para la compresión de texto usando el algoritmo de Huffman.
+El algoritmo de Huffman es muy eficiente para comprimir texto con caracteres repetidos.
+Por ejemplo, la letra 'e' aparece muchas veces en español, al igual que las vocales.
+Este texto tiene varias repeticiones para demostrar la efectividad del algoritmo.
+La compresión funciona mejor cuando hay patrones y caracteres que se repiten frecuentemente.
+¡Prueba este texto y observa el ratio de compresión resultante!
+
+Este es un archivo de prueba para la compresión de texto usando el algoritmo de Huffman.
+El algoritmo de Huffman es muy eficiente para comprimir texto con caracteres repetidos.
+Por ejemplo, la letra 'e' aparece muchas veces en español, al igual que las vocales.
+Este texto tiene varias repeticiones para demostrar la efectividad del algoritmo.
+La compresión funciona mejor cuando hay patrones y caracteres que se repiten frecuentemente.
+¡Prueba este texto y observa el ratio de compresión resultante!
+
+Este es un archivo de prueba para la compresión de texto usando el algoritmo de Huffman.
+El algoritmo de Huffman es muy eficiente para comprimir texto con caracteres repetidos.
+Por ejemplo, la letra 'e' aparece muchas veces en español, al igual que las vocales.
+Este texto tiene varias repeticiones para demostrar la efectividad del algoritmo.
+La compresión funciona mejor cuando hay patrones y caracteres que se repiten frecuentemente.
+¡Prueba este texto y observa el ratio de compresión resultante!
+
+Este es un archivo de prueba para la compresión de texto usando el algoritmo de Huffman.
+El algoritmo de Huffman es muy eficiente para comprimir texto con caracteres repetidos.
+Por ejemplo, la letra 'e' aparece muchas veces en español, al igual que las vocales.
+Este texto tiene varias repeticiones para demostrar la efectividad del algoritmo.
+La compresión funciona mejor cuando hay patrones y caracteres que se repiten frecuentemente.
+¡Prueba este texto y observa el ratio de compresión resultante!
+
+Este es un archivo de prueba para la compresión de texto usando el algoritmo de Huffman.
+El algoritmo de Huffman es muy eficiente para comprimir texto con caracteres repetidos.
+Por ejemplo, la letra 'e' aparece muchas veces en español, al igual que las vocales.
+Este texto tiene varias repeticiones para demostrar la efectividad del algoritmo.
+La compresión funciona mejor cuando hay patrones y caracteres que se repiten frecuentemente.
+¡Prueba este texto y observa el ratio de compresión resultante!
+
+Este es un archivo de prueba para la compresión de texto usando el algoritmo de Huffman.
+El algoritmo de Huffman es muy eficiente para comprimir texto con caracteres repetidos.
+Por ejemplo, la letra 'e' aparece muchas veces en español, al igual que las vocales.
+Este texto tiene varias repeticiones para demostrar la efectividad del algoritmo.
+La compresión funciona mejor cuando hay patrones y caracteres que se repiten frecuentemente.
+¡Prueba este texto y observa el ratio de compresión resultante!
+
+Este es un archivo de prueba para la compresión de texto usando el algoritmo de Huffman.
+El algoritmo de Huffman es muy eficiente para comprimir texto con caracteres repetidos.
+Por ejemplo, la letra 'e' aparece muchas veces en español, al igual que las vocales.
+Este texto tiene varias repeticiones para demostrar la efectividad del algoritmo.
+La compresión funciona mejor cuando hay patrones y caracteres que se repiten frecuentemente.
+¡Prueba este texto y observa el ratio de compresión resultante!
+
+Este es un archivo de prueba para la compresión de texto usando el algoritmo de Huffman.
+El algoritmo de Huffman es muy eficiente para comprimir texto con caracteres repetidos.
+Por ejemplo, la letra 'e' aparece muchas veces en español, al igual que las vocales.
+Este texto tiene varias repeticiones para demostrar la efectividad del algoritmo.
+La compresión funciona mejor cuando hay patrones y caracteres que se repiten frecuentemente.
+¡Prueba este texto y observa el ratio de compresión resultante!
+
+Este es un archivo de prueba para la compresión de texto usando el algoritmo de Huffman.
+El algoritmo de Huffman es muy eficiente para comprimir texto con caracteres repetidos.
+Por ejemplo, la letra 'e' aparece muchas veces en español, al igual que las vocales.
+Este texto tiene varias repeticiones para demostrar la efectividad del algoritmo.
+La compresión funciona mejor cuando hay patrones y caracteres que se repiten frecuentemente.
+¡Prueba este texto y observa el ratio de compresión resultante!
+
+Este es un archivo de prueba para la compresión de texto usando el algoritmo de Huffman.
+El algoritmo de Huffman es muy eficiente para comprimir texto con caracteres repetidos.
+Por ejemplo, la letra 'e' aparece muchas veces en español, al igual que las vocales.
+Este texto tiene varias repeticiones para demostrar la efectividad del algoritmo.
+La compresión funciona mejor cuando hay patrones y caracteres que se repiten frecuentemente.
+¡Prueba este texto y observa el ratio de compresión resultante!
+
+Este es un archivo de prueba para la compresión de texto usando el algoritmo de Huffman.
+El algoritmo de Huffman es muy eficiente para comprimir texto con caracteres repetidos.
+Por ejemplo, la letra 'e' aparece muchas veces en español, al igual que las vocales.
+Este texto tiene varias repeticiones para demostrar la efectividad del algoritmo.
+La compresión funciona mejor cuando hay patrones y caracteres que se repiten frecuentemente.
+¡Prueba este texto y observa el ratio de compresión resultante!
+
+Este es un archivo de prueba para la compresión de texto usando el algoritmo de Huffman.
+El algoritmo de Huffman es muy eficiente para comprimir texto con caracteres repetidos.
+Por ejemplo, la letra 'e' aparece muchas veces en español, al igual que las vocales.
+Este texto tiene varias repeticiones para demostrar la efectividad del algoritmo.
+La compresión funciona mejor cuando hay patrones y caracteres que se repiten frecuentemente.
+¡Prueba este texto y observa el ratio de compresión resultante!
+
+Este es un archivo de prueba para la compresión de texto usando el algoritmo de Huffman.
+El algoritmo de Huffman es muy eficiente para comprimir texto con caracteres repetidos.
+Por ejemplo, la letra 'e' aparece muchas veces en español, al igual que las vocales.
+Este texto tiene varias repeticiones para demostrar la efectividad del algoritmo.
+La compresión funciona mejor cuando hay patrones y caracteres que se repiten frecuentemente.
+¡Prueba este texto y observa el ratio de compresión resultante!
+
+Este es un archivo de prueba para la compresión de texto usando el algoritmo de Huffman.
+El algoritmo de Huffman es muy eficiente para comprimir texto con caracteres repetidos.
+Por ejemplo, la letra 'e' aparece muchas veces en español, al igual que las vocales.
+Este texto tiene varias repeticiones para demostrar la efectividad del algoritmo.
+La compresión funciona mejor cuando hay patrones y caracteres que se repiten frecuentemente.
+¡Prueba este texto y observa el ratio de compresión resultante!
+
+Este es un archivo de prueba para la compresión de texto usando el algoritmo de Huffman.
+El algoritmo de Huffman es muy eficiente para comprimir texto con caracteres repetidos.
+Por ejemplo, la letra 'e' aparece muchas veces en español, al igual que las vocales.
+Este texto tiene varias repeticiones para demostrar la efectividad del algoritmo.
+La compresión funciona mejor cuando hay patrones y caracteres que se repiten frecuentemente.
+¡Prueba este texto y observa el ratio de compresión resultante!
+
+Este es un archivo de prueba para la compresión de texto usando el algoritmo de Huffman.
+El algoritmo de Huffman es muy eficiente para comprimir texto con caracteres repetidos.
+Por ejemplo, la letra 'e' aparece muchas veces en español, al igual que las vocales.
+Este texto tiene varias repeticiones para demostrar la efectividad del algoritmo.
+La compresión funciona mejor cuando hay patrones y caracteres que se repiten frecuentemente.
+¡Prueba este texto y observa el ratio de compresión resultante!
+
+Este es un archivo de prueba para la compresión de texto usando el algoritmo de Huffman.
+El algoritmo de Huffman es muy eficiente para comprimir texto con caracteres repetidos.
+Por ejemplo, la letra 'e' aparece muchas veces en español, al igual que las vocales.
+Este texto tiene varias repeticiones para demostrar la efectividad del algoritmo.
+La compresión funciona mejor cuando hay patrones y caracteres que se repiten frecuentemente.
+¡Prueba este texto y observa el ratio de compresión resultante!
+
+Este es un archivo de prueba para la compresión de texto usando el algoritmo de Huffman.
+El algoritmo de Huffman es muy eficiente para comprimir texto con caracteres repetidos.
+Por ejemplo, la letra 'e' aparece muchas veces en español, al igual que las vocales.
+Este texto tiene varias repeticiones para demostrar la efectividad del algoritmo.
+La compresión funciona mejor cuando hay patrones y caracteres que se repiten frecuentemente.
+¡Prueba este texto y observa el ratio de compresión resultante!
+
+Este es un archivo de prueba para la compresión de texto usando el algoritmo de Huffman.
+El algoritmo de Huffman es muy eficiente para comprimir texto con caracteres repetidos.
+Por ejemplo, la letra 'e' aparece muchas veces en español, al igual que las vocales.
+Este texto tiene varias repeticiones para demostrar la efectividad del algoritmo.
+La compresión funciona mejor cuando hay patrones y caracteres que se repiten frecuentemente.
+¡Prueba este texto y observa el ratio de compresión resultante!
+
+Este es un archivo de prueba para la compresión de texto usando el algoritmo de Huffman.
+El algoritmo de Huffman es muy eficiente para comprimir texto con caracteres repetidos.
+Por ejemplo, la letra 'e' aparece muchas veces en español, al igual que las vocales.
+Este texto tiene varias repeticiones para demostrar la efectividad del algoritmo.
+La compresión funciona mejor cuando hay patrones y caracteres que se repiten frecuentemente.
+¡Prueba este texto y observa el ratio de compresión resultante!
+
+Este es un archivo de prueba para la compresión de texto usando el algoritmo de Huffman.
+El algoritmo de Huffman es muy eficiente para comprimir texto con caracteres repetidos.
+Por ejemplo, la letra 'e' aparece muchas veces en español, al igual que las vocales.
+Este texto tiene varias repeticiones para demostrar la efectividad del algoritmo.
+La compresión funciona mejor cuando hay patrones y caracteres que se repiten frecuentemente.
+¡Prueba este texto y observa el ratio de compresión resultante!
+
+Este es un archivo de prueba para la compresión de texto usando el algoritmo de Huffman.
+El algoritmo de Huffman es muy eficiente para comprimir texto con caracteres repetidos.
+Por ejemplo, la letra 'e' aparece muchas veces en español, al igual que las vocales.
+Este texto tiene varias repeticiones para demostrar la efectividad del algoritmo.
+La compresión funciona mejor cuando hay patrones y caracteres que se repiten frecuentemente.
+¡Prueba este texto y observa el ratio de compresión resultante!
+
+Este es un archivo de prueba para la compresión de texto usando el algoritmo de Huffman.
+El algoritmo de Huffman es muy eficiente para comprimir texto con caracteres repetidos.
+Por ejemplo, la letra 'e' aparece muchas veces en español, al igual que las vocales.
+Este texto tiene varias repeticiones para demostrar la efectividad del algoritmo.
+La compresión funciona mejor cuando hay patrones y caracteres que se repiten frecuentemente.
+¡Prueba este texto y observa el ratio de compresión resultante!
+
+Este es un archivo de prueba para la compresión de texto usando el algoritmo de Huffman.
+El algoritmo de Huffman es muy eficiente para comprimir texto con caracteres repetidos.
+Por ejemplo, la letra 'e' aparece muchas veces en español, al igual que las vocales.
+Este texto tiene varias repeticiones para demostrar la efectividad del algoritmo.
+La compresión funciona mejor cuando hay patrones y caracteres que se repiten frecuentemente.
+¡Prueba este texto y observa el ratio de compresión resultante!
+
+Este es un archivo de prueba para la compresión de texto usando el algoritmo de Huffman.
+El algoritmo de Huffman es muy eficiente para comprimir texto con caracteres repetidos.
+Por ejemplo, la letra 'e' aparece muchas veces en español, al igual que las vocales.
+Este texto tiene varias repeticiones para demostrar la efectividad del algoritmo.
+La compresión funciona mejor cuando hay patrones y caracteres que se repiten frecuentemente.
+¡Prueba este texto y observa el ratio de compresión resultante!
+
+Este es un archivo de prueba para la compresión de texto usando el algoritmo de Huffman.
+El algoritmo de Huffman es muy eficiente para comprimir texto con caracteres repetidos.
+Por ejemplo, la letra 'e' aparece muchas veces en español, al igual que las vocales.
+Este texto tiene varias repeticiones para demostrar la efectividad del algoritmo.
+La compresión funciona mejor cuando hay patrones y caracteres que se repiten frecuentemente.
+¡Prueba este texto y observa el ratio de compresión resultante!
+
+Este es un archivo de prueba para la compresión de texto usando el algoritmo de Huffman.
+El algoritmo de Huffman es muy eficiente para comprimir texto con caracteres repetidos.
+Por ejemplo, la letra 'e' aparece muchas veces en español, al igual que las vocales.
+Este texto tiene varias repeticiones para demostrar la efectividad del algoritmo.
+La compresión funciona mejor cuando hay patrones y caracteres que se repiten frecuentemente.
+¡Prueba este texto y observa el ratio de compresión resultante!
+
+Este es un archivo de prueba para la compresión de texto usando el algoritmo de Huffman.
+El algoritmo de Huffman es muy eficiente para comprimir texto con caracteres repetidos.
+Por ejemplo, la letra 'e' aparece muchas veces en español, al igual que las vocales.
+Este texto tiene varias repeticiones para demostrar la efectividad del algoritmo.
+La compresión funciona mejor cuando hay patrones y caracteres que se repiten frecuentemente.
+¡Prueba este texto y observa el ratio de compresión resultante!
+
+Este es un archivo de prueba para la compresión de texto usando el algoritmo de Huffman.
+El algoritmo de Huffman es muy eficiente para comprimir texto con caracteres repetidos.
+Por ejemplo, la letra 'e' aparece muchas veces en español, al igual que las vocales.
+Este texto tiene varias repeticiones para demostrar la efectividad del algoritmo.
+La compresión funciona mejor cuando hay patrones y caracteres que se repiten frecuentemente.
+¡Prueba este texto y observa el ratio de compresión resultante!
+
+Este es un archivo de prueba para la compresión de texto usando el algoritmo de Huffman.
+El algoritmo de Huffman es muy eficiente para comprimir texto con caracteres repetidos.
+Por ejemplo, la letra 'e' aparece muchas veces en español, al igual que las vocales.
+Este texto tiene varias repeticiones para demostrar la efectividad del algoritmo.
+La compresión funciona mejor cuando hay patrones y caracteres que se repiten frecuentemente.
+¡Prueba este texto y observa el ratio de compresión resultante!
+
+Este es un archivo de prueba para la compresión de texto usando el algoritmo de Huffman.
+El algoritmo de Huffman es muy eficiente para comprimir texto con caracteres repetidos.
+Por ejemplo, la letra 'e' aparece muchas veces en español, al igual que las vocales.
+Este texto tiene varias repeticiones para demostrar la efectividad del algoritmo.
+La compresión funciona mejor cuando hay patrones y caracteres que se repiten frecuentemente.
+¡Prueba este texto y observa el ratio de compresión resultante!
+
+Este es un archivo de prueba para la compresión de texto usando el algoritmo de Huffman.
+El algoritmo de Huffman es muy eficiente para comprimir texto con caracteres repetidos.
+Por ejemplo, la letra 'e' aparece muchas veces en español, al igual que las vocales.
+Este texto tiene varias repeticiones para demostrar la efectividad del algoritmo.
+La compresión funciona mejor cuando hay patrones y caracteres que se repiten frecuentemente.
+¡Prueba este texto y observa el ratio de compresión resultante!
+
+Este es un archivo de prueba para la compresión de texto usando el algoritmo de Huffman.
+El algoritmo de Huffman es muy eficiente para comprimir texto con caracteres repetidos.
+Por ejemplo, la letra 'e' aparece muchas veces en español, al igual que las vocales.
+Este texto tiene varias repeticiones para demostrar la efectividad del algoritmo.
+La compresión funciona mejor cuando hay patrones y caracteres que se repiten frecuentemente.
+¡Prueba este texto y observa el ratio de compresión resultante!
+
+Este es un archivo de prueba para la compresión de texto usando el algoritmo de Huffman.
+El algoritmo de Huffman es muy eficiente para comprimir texto con caracteres repetidos.
+Por ejemplo, la letra 'e' aparece muchas veces en español, al igual que las vocales.
+Este texto tiene varias repeticiones para demostrar la efectividad del algoritmo.
+La compresión funciona mejor cuando hay patrones y caracteres que se repiten frecuentemente.
+¡Prueba este texto y observa el ratio de compresión resultante!
+
+Este es un archivo de prueba para la compresión de texto usando el algoritmo de Huffman.
+El algoritmo de Huffman es muy eficiente para comprimir texto con caracteres repetidos.
+Por ejemplo, la letra 'e' aparece muchas veces en español, al igual que las vocales.
+Este texto tiene varias repeticiones para demostrar la efectividad del algoritmo.
+La compresión funciona mejor cuando hay patrones y caracteres que se repiten frecuentemente.
+¡Prueba este texto y observa el ratio de compresión resultante!
+
+Este es un archivo de prueba para la compresión de texto usando el algoritmo de Huffman.
+El algoritmo de Huffman es muy eficiente para comprimir texto con caracteres repetidos.
+Por ejemplo, la letra 'e' aparece muchas veces en español, al igual que las vocales.
+Este texto tiene varias repeticiones para demostrar la efectividad del algoritmo.
+La compresión funciona mejor cuando hay patrones y caracteres que se repiten frecuentemente.
+¡Prueba este texto y observa el ratio de compresión resultante!
+
+Este es un archivo de prueba para la compresión de texto usando el algoritmo de Huffman.
+El algoritmo de Huffman es muy eficiente para comprimir texto con caracteres repetidos.
+Por ejemplo, la letra 'e' aparece muchas veces en español, al igual que las vocales.
+Este texto tiene varias repeticiones para demostrar la efectividad del algoritmo.
+La compresión funciona mejor cuando hay patrones y caracteres que se repiten frecuentemente.
+¡Prueba este texto y observa el ratio de compresión resultante!
+
+Este es un archivo de prueba para la compresión de texto usando el algoritmo de Huffman.
+El algoritmo de Huffman es muy eficiente para comprimir texto con caracteres repetidos.
+Por ejemplo, la letra 'e' aparece muchas veces en español, al igual que las vocales.
+Este texto tiene varias repeticiones para demostrar la efectividad del algoritmo.
+La compresión funciona mejor cuando hay patrones y caracteres que se repiten frecuentemente.
+¡Prueba este texto y observa el ratio de compresión resultante!
+
+Este es un archivo de prueba para la compresión de texto usando el algoritmo de Huffman.
+El algoritmo de Huffman es muy eficiente para comprimir texto con caracteres repetidos.
+Por ejemplo, la letra 'e' aparece muchas veces en español, al igual que las vocales.
+Este texto tiene varias repeticiones para demostrar la efectividad del algoritmo.
+La compresión funciona mejor cuando hay patrones y caracteres que se repiten frecuentemente.
+¡Prueba este texto y observa el ratio de compresión resultante!
+
+Este es un archivo de prueba para la compresión de texto usando el algoritmo de Huffman.
+El algoritmo de Huffman es muy eficiente para comprimir texto con caracteres repetidos.
+Por ejemplo, la letra 'e' aparece muchas veces en español, al igual que las vocales.
+Este texto tiene varias repeticiones para demostrar la efectividad del algoritmo.
+La compresión funciona mejor cuando hay patrones y caracteres que se repiten frecuentemente.
+¡Prueba este texto y observa el ratio de compresión resultante!
+
+
