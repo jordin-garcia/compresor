@@ -4,10 +4,10 @@ Aplicación de compresión de datos que implementa algoritmos de compresión sin
 
 ## Integrantes del Equipo
 
-- **Elizabeth**: Compresión de Audio (RLE + Huffman)
-- **Cristian**: Compresión de Imágenes (RLE)
-- **André**: Compresión de Texto (Huffman)
-- **Jordin**: Interfaz Gráfica (PyQt6)
+- **Elizabeth Caxaj - 2016523**: Compresión de Audio (RLE + Huffman)
+- **Cristian Guzman - 1522919**: Compresión de Imágenes (RLE)
+- **André Velasco - 1546124**: Compresión de Texto (Huffman)
+- **Jordin García - 2427124**: Interfaz Gráfica (PyQt6)
 
 ## Descripción
 
